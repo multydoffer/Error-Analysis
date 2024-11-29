@@ -36,4 +36,4 @@ Similar results can be found in the following table, where 1 stands for error se
    macro avg       0.51      0.51      0.51      1241
 weighted avg       0.52      0.51      0.51      1241
 
-This analysis suggests that the error patterns in CNN, Transforemr and SSM are not obvious.
+This analysis suggests that the error patterns in CNN, Transformer and SSM are not obvious.
