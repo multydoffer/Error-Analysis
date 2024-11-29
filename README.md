@@ -27,7 +27,7 @@ Similar results can be found in the following table, where 1 stands for error se
 
               precision    recall  f1-score   support
 
-           0       0.56      0.52      0.54       749
-           1       0.46      0.51      0.49       492
+           0       0.56      0.52      0.54       600
+           1       0.46      0.51      0.49       443
 
 This analysis suggests that the error patterns in CNN, Transformer and SSM are not obvious.
