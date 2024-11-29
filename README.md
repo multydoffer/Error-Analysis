@@ -3,10 +3,11 @@ Here we perform an error analysis on the Caduceus, ConvNova, and NTv2 models, fo
 
 To analyze the errors, we select the sequences with significant performance differences and apply t-SNE for dimensionality reduction. We visualize the results from different angles to inspect if there are any evident patterns or distinctions between the errors made by the models.
 
-![1732886634161](https://github.com/user-attachments/assets/226dc70e-5a61-4db5-ab4c-a0e79dc9c0d7)
-![image](https://github.com/user-attachments/assets/408a8eee-201c-4603-8a57-54591076e18a)
-![image](https://github.com/user-attachments/assets/4b8d3467-1181-45bc-87e8-07ee3a635f01)
+![image](https://github.com/user-attachments/assets/a884baa3-82da-4aa0-9faa-5bb0b9014f2b)
+![image](https://github.com/user-attachments/assets/27089197-a1fd-45fd-b82c-2a6ce4d74f6c)
+![image](https://github.com/user-attachments/assets/f2084317-13df-4121-b3ee-7932c9681da9)
 ![image](https://github.com/user-attachments/assets/fc6a7c90-bcc2-4789-9f82-4bc797dd2479)
+![image](https://github.com/user-attachments/assets/b57fd33b-7bca-4d07-8cdd-3f312d7b0e88)
 
 
 
